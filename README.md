@@ -2,7 +2,7 @@
 This is a project that I created while following along with a Tailwind CSS tutorial video by Dave Gray on YouTube. It's a simple web application that demonstrates some of the key features and functionality of Tailwind CSS.
 
 #Getting Started:
-To get started with this project, simply clone the repository to your local machine and open the index.html file in your web browser. 
+To get started with this project, simply clone the repository to your local machine and open the index.html file in your web browser.Alternatively, you can view the project online at https://acme-rockets-pa20.onrender.com
 
 #Features:
 This project includes several features and components that showcase the power and flexibility of Tailwind CSS, including:
